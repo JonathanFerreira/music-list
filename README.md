@@ -1,6 +1,6 @@
 # my-vue
 
-> Brincando com Vue.js
+> Vue.js - Aplicação simples para meios didáticos de listagem e remoção de musicas utilizando as ferramentas do framework
 
 ## Build Setup
 
